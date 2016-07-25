@@ -1,0 +1,36 @@
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/UnityEngine.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/UnityEditor.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Mono.Cecil.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Unity.DataContract.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/digvijay.singh/FRAUGv4/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/digvijay.singh/FRAUGv4/obj/Debug/Assembly-CSharp.dll
+/Users/digvijay.singh/FRAUGv4/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/obj/Debug/Assembly-CSharp.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/UnityEngine.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/UnityEditor.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Mono.Cecil.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Unity.DataContract.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/somya.gupta/Downloads/Unity_Vuforia_Fraug/Final App/FRAUGv4/Temp/bin/Debug/Mono.Cecil.Mdb.dll
