@@ -7,3 +7,5 @@ Click on the image below to see a demo of the app:
 
 [![ScreenShot](https://github.com/somgupta/augmented-reality-ecommerce/blob/master/FB_IMG_1469336891308.jpg)](https://youtu.be/7N7eZaEs-D4)
 
+
+Built along with Digvijay Singh and Paras Narang.
